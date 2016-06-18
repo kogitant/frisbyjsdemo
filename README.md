@@ -23,7 +23,7 @@
 
 # Run a single test
 
-    jasmine-node spec/api/second_spec.js
+    jasmine-node spec/api/02_unordered_json_array_element_content_assert_spec.js
 
 # Configure WebStorm to run all tests
 

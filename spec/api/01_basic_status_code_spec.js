@@ -1,6 +1,6 @@
 var frisby = require('frisby');
 frisby
-  .create('Get Github user kogitant repos')
+  .create('Simple http request status code example')
   .addHeader('User-Agent','Frisby')
   .get('https://api.github.com/users/kogitant/repos')
   //.inspectRequest()

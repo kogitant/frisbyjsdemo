@@ -19,7 +19,7 @@ This relies on this snipped found in package.json:
 
 # Configure WebStorm to run all tests with node.js
 
-![Webstorm node.js run configuration](/screenshots/WebStormNodeRunConfig.png?raw=true "Webstorm node.js run configuration")
+![Webstorm node.js run configuration](/screenshots/WebstormNodeRunConfig.png?raw=true "Webstorm node.js run configuration")
 
 # Configure WebStorm to run all tests with npm test
 
